@@ -1,0 +1,145 @@
+Users\Training\Desktop\Courses\Jenkins\Course 8\0703 Web Project Setup\Web Project Setup
+   │
+   ├[.git]
+   │   │
+   │   ├[hooks]
+   │   │   │
+   │   │   ├applypatch-msg
+   │   │   ├commit-msg
+   │   │   ├post-update
+   │   │   ├pre-applypatch
+   │   │   ├pre-commit
+   │   │   ├pre-push
+   │   │   ├pre-rebase
+   │   │   ├pre-receive
+   │   │   ├prepare-commit-msg
+   │   │   └update
+   │   ├[info]
+   │   │   │
+   │   │   └exclude
+   │   ├[logs]
+   │   │   │
+   │   │   ├[refs]
+   │   │   │   │
+   │   │   │   └[heads]
+   │   │   │       │
+   │   │   │       └master
+   │   │   └HEAD
+   │   ├[objects]
+   │   │   │
+   │   │   ├[04]
+   │   │   │   │
+   │   │   │   └cad8cb752a9761c4e5167d0301d3a27674430f
+   │   │   ├[05]
+   │   │   │   │
+   │   │   │   └bd71b6ec2c1982d1e8a5653073281994564ae8
+   │   │   ├[13]
+   │   │   │   │
+   │   │   │   └3ac4d531113776631fbc0d8d631450106354a7
+   │   │   ├[24]
+   │   │   │   │
+   │   │   │   └181231f679c20bf05eee948c72eb2603abd468
+   │   │   ├[27]
+   │   │   │   │
+   │   │   │   └84a1b0e7ce8f22f644d7b7a17c6e05ba9db6ea
+   │   │   ├[2e]
+   │   │   │   │
+   │   │   │   └c4ea20a5f2dcd3c8efddb1bdfd0d1de64447a3
+   │   │   ├[33]
+   │   │   │   │
+   │   │   │   └85c8b545379fdff52debd7dd2ab951c5799da1
+   │   │   ├[3b]
+   │   │   │   │
+   │   │   │   └d5d0a4803967bc0bf72a7dd66d7e292ed2e586
+   │   │   ├[45]
+   │   │   │   │
+   │   │   │   └a6e0e0d5a1eaa3749e63e9d8aabfb3169f19ee
+   │   │   ├[5d]
+   │   │   │   │
+   │   │   │   └f27ca5e99929c756f064fe13182dcd6203f594
+   │   │   ├[6c]
+   │   │   │   │
+   │   │   │   └e7b622f5736d5ba25aba8d25b9414feff0d328
+   │   │   ├[78]
+   │   │   │   │
+   │   │   │   └ec2fc1049aee1e96cb8547ea5b6d607b177fb4
+   │   │   ├[82]
+   │   │   │   │
+   │   │   │   └0746252c22fcbe1a4492799267b27373544f9f
+   │   │   ├[86]
+   │   │   │   │
+   │   │   │   └4f83bf5d6a66c444dc6eedd4ad95d9287a9ae1
+   │   │   ├[8e]
+   │   │   │   │
+   │   │   │   └f32f8a6d636c8301d28fe4ffe4288c7d26152d
+   │   │   ├[96]
+   │   │   │   │
+   │   │   │   ├4133285ce83eb091cbd393c3aed3c99191c95c
+   │   │   │   └de6a591dc50c1663bef1b600ffb8e7d663af33
+   │   │   ├[9f]
+   │   │   │   │
+   │   │   │   └88c1f9632445500e3b3688fe477b860f77d8f2
+   │   │   ├[a1]
+   │   │   │   │
+   │   │   │   └be770de12e00a7a2ff4aaf0c957a2188637907
+   │   │   ├[a8]
+   │   │   │   │
+   │   │   │   └fca0dcfb5576144347da1121262540760895f0
+   │   │   ├[b2]
+   │   │   │   │
+   │   │   │   └a9edd806c2ad361bd234042762922a850ef891
+   │   │   ├[b5]
+   │   │   │   │
+   │   │   │   └97d179a870640a8f8f3193cb4e2a75138669b2
+   │   │   ├[c5]
+   │   │   │   │
+   │   │   │   └f81a1baa0daad33ab9a9583443468e498b333c
+   │   │   ├[d7]
+   │   │   │   │
+   │   │   │   └4c55e0f1b07fee5fb5bec1526fd0cdd4bd1223
+   │   │   ├[d9]
+   │   │   │   │
+   │   │   │   └51acf98ec9a43d87e7779ffa11379803e7b8ac
+   │   │   ├[e4]
+   │   │   │   │
+   │   │   │   └807e5b6189ec60d7d8321578b376f3648b0663
+   │   │   ├[f8]
+   │   │   │   │
+   │   │   │   └97a7f1cb2389f85fe6381425d29f0a9866fb65
+   │   │   ├[info]
+   │   │   └[pack]
+   │   ├[refs]
+   │   │   │
+   │   │   ├[heads]
+   │   │   │   │
+   │   │   │   └master
+   │   │   └[tags]
+   │   ├COMMIT_EDITMSG
+   │   ├config
+   │   ├description
+   │   ├HEAD
+   │   └index
+   ├[.settings]
+   │   │
+   │   ├
+   │   ├org.eclipse.jdt.core
+   │   ├org.eclipse.m2e.core
+   │   ├org.eclipse.wst.common
+   │   ├org.eclipse.wst.common.project.facet.core
+   │   ├org.eclipse.wst.jsdt.ui.superType
+   │   ├org.eclipse.wst.jsdt.ui.superType
+   │   └org.eclipse.wst.validation
+   ├[src]
+   │   │
+   │   └[main]
+   │       │
+   │       ├[resources]
+   │       └[webapp]
+   │           │
+   │           ├[WEB-INF]
+   │           │   │
+   │           │   └web
+   │           └index
+   ├
+   ├
+   └pom
